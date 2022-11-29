@@ -1,0 +1,18 @@
+body{
+    background-color: #cbbfbf;
+}
+.container1{
+    text-align: center;
+    background-color: orange;
+}
+.container1{
+    font-weight: 800;
+    font-size: 30px;
+}
+.col-sm-4 h3{
+    text-align: center;
+    padding: 5px 20px;
+}
+.col-sm-4 p{
+    text-align: center;
+}
